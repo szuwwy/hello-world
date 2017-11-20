@@ -1,0 +1,11 @@
+{
+    "name": "szuwwy/hello-world",
+    "description": "this is a hello world repository for composer.",
+    "authors": [
+        {
+            "name": "wwy",
+            "email": "szuwwy@126.com"
+        }
+    ],
+    "require": {}
+}
